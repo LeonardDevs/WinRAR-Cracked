@@ -1,0 +1,124 @@
+{
+  "GeneralInformation": {
+      "InstallationPath"  : "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\",
+      "ApplicationVersion": "0.0.0.0",
+      "ApplicationName"   : "WinRAR Cracked + RePack"
+    },
+  "Folders"           : [],
+  "Files"             : [
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\Uninstall WinRAR Cracked + RePack.exe"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\WinRAR.exe"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\Zip32.SFX"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\zipnew.dat"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\UnRAR.exe"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\WhatsNew.txt"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\WinCon32.SFX"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\WinRAR.chm"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\Default32.SFX"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\Descript.ion"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\Rar.exe"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\Rar.txt"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\RarExt.dll"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\RarExt64.dll"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\RarFiles.lst"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\rarnew.dat"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\rarreg.key"
+      },
+      {
+        "Path": "C:\\Program Files\\RePack Games And Apps Team\\WinRAR\\7zxa.dll"
+      },
+      {
+        "Path": "C:\\Users\\Public\\Desktop\\WinRAR Cracked and RePack.lnk"
+      }
+    ],
+  "RegistryValues"    : [
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayIcon",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\WinRAR Cracked + RePack\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "UninstallString",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\WinRAR Cracked + RePack\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "InstallDate",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\WinRAR Cracked + RePack\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "InstallLocation",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\WinRAR Cracked + RePack\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "EstimatedSize",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\WinRAR Cracked + RePack\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "NoModify",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\WinRAR Cracked + RePack\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "NoRepair",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\WinRAR Cracked + RePack\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayName",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\WinRAR Cracked + RePack\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayVersion",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\WinRAR Cracked + RePack\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "HelpLink",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\WinRAR Cracked + RePack\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "Publisher",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\WinRAR Cracked + RePack\\"
+      }
+    ]
+}
